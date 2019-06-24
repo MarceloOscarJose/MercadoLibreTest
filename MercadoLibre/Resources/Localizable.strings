@@ -1,0 +1,33 @@
+/* 
+  Language.strings
+  MercadoLibre
+
+  Created by Marcelo Oscar José on 1/4/17.
+  Copyright © 2016 Marcelo Oscar José. All rights reserved.
+*/
+
+// General Strings
+"app_name" = "Mercado Libre";
+"app_copyright" = "© MercadoLibre by Marcelo José - All Rights Reserved :: 2017";
+"app_sites" = "Sitios de Mercado Libre";
+
+"loading_text" = "Cargando";
+"search_input_placehoder" = "Buscar en Mercado Libre";
+
+// Product
+"category_label_text" = "Categoría:";
+"product_description_button" = "Descripción del producto";
+"product_description_empty" = "El producto no posee descripción";
+
+// Errors
+"item_list_error" = "Error al listar productos";
+"sites_list_error" = "Error al listar sitios";
+"categories_list_error" = "Error al listar categoría";
+"description_list_error" = "Error al lista descrpción de producto";
+"site_list_error" = "Error al listar sitios";
+"currency_list_error" = "Error al listar monedas";
+
+"alert_error_title" = "Error";
+"alert_error_ok" = "Aceptar";
+
+"noresults_list_error" = "No se encontraron resultados para su búsqueda, por favor verifique el criterio ingresado";
